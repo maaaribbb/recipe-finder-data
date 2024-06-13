@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Spaghetti Carbonara",
+    "Description": "A classic Italian pasta dish.",
+    "Image": "https://example.com/images/spaghetti_carbonara.jpg",
+    "Stars": 5
+  },
+  {
+    "Name": "Chicken Biryani",
+    "Description": "A flavorful Indian rice dish.",
+    "Image": "https://example.com/images/chicken_biryani.jpg",
+    "Stars": 4
+  }
+]
