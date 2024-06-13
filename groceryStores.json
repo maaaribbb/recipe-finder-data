@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Walmart",
+    "Address": "123 Main St",
+    "Latitude": 40.712776,
+    "Longitude": -74.005974
+  },
+  {
+    "Name": "Target",
+    "Address": "456 Elm St",
+    "Latitude": 34.052235,
+    "Longitude": -118.243683
+  }
+]
